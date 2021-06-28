@@ -7,3 +7,6 @@
 [submodule "docker-hive-metastore-postgresql"]
 	path = docker-hive-metastore-postgresql
 	url = git@bitbucket.org:rogermm/docker-hive-metastore-postgresql.git
+[submodule "docker-spark"]
+	path = docker-spark
+	url = git@bitbucket.org:rogermm/docker-spark.git
