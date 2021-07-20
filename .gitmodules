@@ -10,3 +10,21 @@
 [submodule "docker-spark"]
 	path = docker-spark
 	url = git@bitbucket.org:rogermm/docker-spark.git
+[submodule "docker-airflow"]
+	path = docker-airflow
+	url = git@bitbucket.org:rogermm/docker-airflow.git
+[submodule "docker-elastic"]
+	path = docker-elastic
+	url = git@bitbucket.org:rogermm/docker-elastic.git
+[submodule "docker-postgres"]
+	path = docker-postgres
+	url = git@bitbucket.org:rogermm/docker-postgres.git
+[submodule "docker-kafka"]
+	path = docker-kafka
+	url = git@bitbucket.org:rogermm/docker-kafka.git
+[submodule "docker-command"]
+	path = docker-command
+	url = git@bitbucket.org:rogermm/docker-command.git
+[submodule "docker-nifi"]
+	path = docker-nifi
+	url = git@bitbucket.org:rogermm/docker-nifi.git

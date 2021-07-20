@@ -1,22 +1,17 @@
 #!/bin/bash
 
-pushd .
-cd docker-hadoop
-./build.sh -u $USER
-popd
+build() {
+   pushd .
+   cd $1
+   ./build.sh -u rogermm
+   popd
+}
 
-pushd .
-cd docker-hive
-./build.sh -u $USER
-popd
-
-pushd .
-cd docker-spark
-./build.sh -u $USER
-popd
-
-pushd .
-cd docker-hive-metastore-postgresql
-./build.sh -u $USER
-popd
+build docker-hadoop
+build docker-hive
+build docker-spark
+build docker-hive-metastore-postgresql
+build docker-spark
+build docker-kafka
+build docker-command
 
