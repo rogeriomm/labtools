@@ -1,30 +1,33 @@
 [submodule "docker-hadoop"]
 	path = docker-hadoop
-	url = git@bitbucket.org:rogermm/docker-hadoop.git
+	url = git@github.com:rogeriomm/docker-hadoop.git
 [submodule "docker-hive"]
 	path = docker-hive
-	url = git@bitbucket.org:rogermm/docker-hive.git
+	url = git@github.com:rogeriomm/docker-hive.git
 [submodule "docker-hive-metastore-postgresql"]
 	path = docker-hive-metastore-postgresql
-	url = git@bitbucket.org:rogermm/docker-hive-metastore-postgresql.git
+	url = git@github.com:rogeriomm/docker-hive-metastore-postgresql.git
 [submodule "docker-spark"]
 	path = docker-spark
-	url = git@bitbucket.org:rogermm/docker-spark.git
+	url = git@github.com:rogeriomm/docker-spark.git
 [submodule "docker-airflow"]
 	path = docker-airflow
-	url = git@bitbucket.org:rogermm/docker-airflow.git
+	url = git@github.com:rogeriomm/docker-airflow.git
 [submodule "docker-elastic"]
 	path = docker-elastic
-	url = git@bitbucket.org:rogermm/docker-elastic.git
+	url = git@github.com:rogeriomm/docker-elastic.git
 [submodule "docker-postgres"]
 	path = docker-postgres
-	url = git@bitbucket.org:rogermm/docker-postgres.git
+	url = git@github.com:rogeriomm/docker-postgres.git
 [submodule "docker-kafka"]
 	path = docker-kafka
-	url = git@bitbucket.org:rogermm/docker-kafka.git
+	url = git@github.com:rogeriomm/docker-kafka.git
 [submodule "docker-command"]
 	path = docker-command
-	url = git@bitbucket.org:rogermm/docker-command.git
+	url = git@github.com:rogeriomm/docker-command.git
 [submodule "docker-nifi"]
 	path = docker-nifi
-	url = git@bitbucket.org:rogermm/docker-nifi.git
+	url = git@github.com:rogeriomm/docker-nifi.git
+[submodule "work"]
+	path = work
+	url = git@github.com:rogeriomm/work.git
