@@ -33,7 +33,7 @@
 	url = git@github.com:rogeriomm/work.git
 [submodule "docker-minio"]
 	path = docker-minio
-	url = ./docker-minio
+	url = git@github.com:rogeriomm/docker-minio.git
 [submodule "docker-zeppelin"]
 	path = docker-zeppelin
-	url = ./docker-zeppelin
+	url = git@github.com:rogeriomm/docker-zeppelin
