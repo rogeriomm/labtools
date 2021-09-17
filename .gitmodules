@@ -31,3 +31,9 @@
 [submodule "work"]
 	path = work
 	url = git@github.com:rogeriomm/work.git
+[submodule "docker-minio"]
+	path = docker-minio
+	url = ./docker-minio
+[submodule "docker-zeppelin"]
+	path = docker-zeppelin
+	url = ./docker-zeppelin
