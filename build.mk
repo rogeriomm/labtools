@@ -10,6 +10,7 @@ Dir(['docker-hadoop',
      'docker-postgres',
      'docker-airflow',
      'docker-elastic',
-     'docker-nifi'],
+     'docker-nifi',
+     'work'],
      name="labtools")
 
